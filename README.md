@@ -14,18 +14,18 @@ Using the fundamentals of the Python programming language, students will sketch 
 
 ### Required Materials
 
-* A Laptop with macOS 10.9 (Mavericks) or newer
+* A computer with macOS 10.9 (Mavericks) or newer
 * A fast enough internet connection for video calls
 
 ## Course Outline
 
-|Week|Date|Subject|Topics
-|----|----|--------------
-|1|October 13|[Shapes and Loops](#Session-1-Shapes-and-Loops)|Introductions<br />Python basics (hello world)<br />Drawbot basics<br />Simple Grids
-|2|October 20|[Colors and Text](#Session-2-Colors-and-Text)|Dealing with strings<br />Dealing with lists<br />Dealing with colors
-|3|October 27|[Canvas and Images](#Session-3-Canvas-and-Images)|Saved States<br/>Images Effects<br />Mini-interfaces<br/>
-|4|November 3|[Layouts](#Session-4-Layouts)|Work on zine
-|5|November 10|[Animation](#Session-5-Animation)|Interpolation/tweening<br />
+| Week | Date | Subject | Topics |
+| ---- | ---- | -------------- |
+|1   | October 13 | [Shapes and Loops](#Session-1-Shapes-and-Loops) | Introductions<br />Python basics (hello world)<br />Drawbot basics<br />Simple Grids |
+|2   | October 20 | [Colors and Text](#Session-2-Colors-and-Text) | Dealing with strings<br />Dealing with lists<br />Dealing with colors |
+|3   | October 27 | [Canvas and Images](#Session-3-Canvas-and-Images) | Saved States<br/>Images Effects<br />Mini-interfaces<br/> |
+|4   | November 3 | [Layouts](#Session-4-Layouts)| Work on zine |
+|5   | November 10 | [Animation](#Session-5-Animation)| Interpolation/tweening |
 
 ## Sessions
 
