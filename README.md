@@ -23,6 +23,7 @@ Using the fundamentals of the Python programming language, students will sketch 
 | 1   | October 13 | [Shapes and Loops](#Session-1-Shapes-and-Loops) | Introductions, Python basics (hello world), Drawbot basics, Simple Grids |
 | 2   | October 20 | [Colors and Text](#Session-2-Colors-and-Text) | Strings, lists, conditionals, colors |
 | 3   | October 27 | [Canvas and Images](#Session-3-Canvas-and-Images) | Saved States, images, image effects, mini-interfaces |
+|    |  |  | __Daylight savings ends, move 1 hour back__ | 
 | 4   | November 3 | [Layouts](#Session-4-Layouts)| Work on zine |
 | 5   | November 10 | [Animation](#Session-5-Animation)| Interpolation/tweening |
 
