@@ -3,6 +3,7 @@
 * Type@Cooper Public Workshop Fall 2020
 * Tuesdays 7–9pm ET, October 13 to November 10 (5 sessions)
 * Instructor: [David Jonathan Ross](https://djr.com)
+* Office Hours: https://calendly.com/djrrb/type-crit-crew-meeting
 
 ## Course Description
 
@@ -17,23 +18,44 @@ Using the fundamentals of the Python programming language, students will sketch 
 * A computer with macOS 10.9 (Mavericks) or newer
 * A fast enough internet connection for video calls
 
+### Software
+
+* [Drawbot](https://www.drawbot.com)
+
 ## Course Outline
 | Week | Date | Subject | Topics |
 | ---- | ---- | -------------- | ---- |
-| 1   | October 13 | [Shapes and Loops](#Session-1-Shapes-and-Loops) | Introductions, Python basics (hello world), Drawbot basics, Simple Grids |
-| 2   | October 20 | [Colors and Text](#Session-2-Colors-and-Text) | Strings, lists, conditionals, colors |
-| 3   | October 27 | [Canvas and Images](#Session-3-Canvas-and-Images) | Saved States, images, image effects, mini-interfaces |
-|    |  |  | __Daylight savings ends, move 1 hour back__ | 
-| 4   | November 3 | [Layouts](#Session-4-Layouts)| Work on zine |
-| 5   | November 10 | [Animation](#Session-5-Animation)| Interpolation/tweening |
+| 1   | October 13 | [**Shapes and Loops**](#Session-1-Shapes-and-Loops) | Introductions, Python basics, Drawbot basics, Loops and Lists |
+| 2   | October 20 | [**Colors and Text**](#Session-2-Colors-and-Text) | Strings, lists, conditionals, colors |
+| 3   | October 27 | [**Canvas and Images**](#Session-3-Canvas-and-Images) | Saved States, images, image effects, mini-interfaces |
+|    |  |  | _Daylight savings ends Nov 1, move 1 hour back_ | 
+| ?  |  |  | November 3 | **Optional drop-in class** | |
+| 4   | November 10 | [**Layouts**](#Session-4-Layouts)| Work on zine |
+| 5   | November 17 | [**Animation**](#Session-5-Animation)| Interpolation/tweening |
 
 ## Sessions
 
 ### Session 1: Shapes and Loops
+
 ### Session 2: Colors and Text
+
 ### Session 3: Canvas and Images
+
 ### Session 4: Layouts
+
 ### Session 5: Animation
 
 ## Resources
 
+### Resources
+* [Drawbot Documentation](https://www.drawbot.com/#)
+* [Drawbot on GitHub](https://github.com/typemytype/drawbot)
+* [Drawbot Forum](https://forum.drawbot.com)
+* [Drawbot Skia](https://github.com/justvanrossum/drawbot-skia), for cross-platform use
+* [Python documentation](https://docs.python.org/3/)
+* [Python Beginner’s Guide for Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
+* [Python for Designers](http://www.pythonfordesigners.com), a beautifully-designed Drawbot tutorial by [Roberto Arista](http://projects.robertoarista.it)
+
+### Implementations
+* [Daily Drawbot](https://dailydrawbot.tumblr.com), fun animations by [Just van Rossum](https://twitter.com/justvanrossum)
+* [BadgeBot](https://github.com/djrrb/badgebot), my conference badges for the first [Typographics](https://2015.typographics.com) conference
