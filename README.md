@@ -1,4 +1,4 @@
-# Python-For-Visual-Designers-2020
+# Python For Visual Designers
 
 * Type@Cooper Public Workshop Fall 2020
 * Tuesdays 7–9pm ET, October 13 to November 10 (5 sessions)
