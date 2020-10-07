@@ -1,9 +1,10 @@
 # Python For Visual Designers
 
-* Type@Cooper Public Workshop Fall 2020
-* Tuesdays 7–9pm ET, October 13 to November 10 (5 sessions)
-* Instructor: [David Jonathan Ross](https://djr.com)
-* Office Hours: https://calendly.com/djrrb/type-crit-crew-meeting
+* Type@Cooper Public Workshop
+* _Term:_ Fall 2020
+* _Dates:_ Tuesdays 7–9pm ET, October 13 to November 17
+* _Instructor:_ [David Jonathan Ross](https://djr.com)
+* _Office Hours:_ [Book any open hour on Calendly](https://calendly.com/djrrb)
 
 ## Course Description
 
@@ -21,41 +22,106 @@ Using the fundamentals of the Python programming language, students will sketch 
 ### Software
 
 * [Drawbot](https://www.drawbot.com)
+* A coding font of your choice!
 
 ## Course Outline
-| Week | Date | Subject | Topics |
-| ---- | ---- | -------------- | ---- |
-| 1   | October 13 | [**Shapes and Loops**](#Session-1-Shapes-and-Loops) | Introductions, Python basics, Drawbot basics, Loops and Lists |
-| 2   | October 20 | [**Colors and Text**](#Session-2-Colors-and-Text) | Strings, lists, conditionals, colors |
-| 3   | October 27 | [**Canvas and Images**](#Session-3-Canvas-and-Images) | Saved States, images, image effects, mini-interfaces |
-|    |  |  | _Daylight savings ends Nov 1, move 1 hour back_ | 
-| ?  |  |  | November 3 | **Optional drop-in class** | |
-| 4   | November 10 | [**Layouts**](#Session-4-Layouts)| Work on zine |
-| 5   | November 17 | [**Animation**](#Session-5-Animation)| Interpolation/tweening |
+| Session | Date | Subject |
+| ---- | ---- | -------------- | 
+| 1   | October 13 | [**Shapes and Loops**](#Session-1-Shapes-and-Loops) | 
+| 2   | October 20 | [**Colors and Text**](#Session-2-Colors-and-Text) | 
+| 3   | October 27 | [**Canvas and Images**](#Session-3-Paths-and-Images) | 
+| | | _Daylight savings ends, move back 1 hour_ |
+|   |  _November 3_ | **Optional drop-in class** | 
+| 4   | November 10 | [**Layouts**](#Session-4-Layouts) |
+| 5   | November 17 | [**Animation**](#Session-5-Animation)|
 
 ## Sessions
 
 ### Session 1: Shapes and Loops
 
+* _Introductions_
+* The Drawbot interface and keyboard shortcuts
+* Hello world
+* Math
+* Strings
+* Comments
+* Variables
+* Drawbot primitives ([docs](https://www.drawbot.com/content/shapes/primitives.html))
+* Lists
+* Loops
+* Conditions
+
+#### Readings
+* [`import this`](https://www.python.org/dev/peps/pep-0020/#easter-egg)
+* 
+
+#### Session links
+ 
+
 ### Session 2: Colors and Text
 
-### Session 3: Canvas and Images
+* _Review_
+* _Show & Tell_
+* Canvas
+  * Pages
+  * Graphics State ([docs]((https://www.drawbot.com/content/canvas/state.html)))
+  * Saving ([docs](https://www.drawbot.com/content/canvas/saveImage.html))
+* Functions
+* Text ([docs](https://www.drawbot.com/content/text/drawingText.html))
+* Formatted Strings ([docs](https://www.drawbot.com/content/text/formattedString.html))
+* Color ([docs](https://www.drawbot.com/content/color.html))
+* colorsys ([docs](https://docs.python.org/3/library/colorsys.html))
+
+#### Readings
+
+#### Session links
+
+### Session 3: Paths and Images
+
+* _Review_
+* _Show & Tell_
+* Paths ([docs](https://www.drawbot.com/content/shapes/bezierPath.html))
+* Color ([docs](https://www.drawbot.com/content/color.html))
+* Image Object ([docs](https://www.drawbot.com/content/image/imageObject.html))
+
 
 ### Session 4: Layouts
 
+* _Review_
+* _Show & Tell_
+* Install Python Packages
+* Using Data
+
+
+#### Readings
+
+#### Session links
+
 ### Session 5: Animation
+
+* _Review_
+* _Show & Tell_
+
+
+#### Session links
+
+
 
 ## Resources
 
-### Resources
+### Drawbot resources
 * [Drawbot Documentation](https://www.drawbot.com/#)
 * [Drawbot on GitHub](https://github.com/typemytype/drawbot)
+* [@drawbotapp on Twitter](https://twitter.com/drawbotapp)
 * [Drawbot Forum](https://forum.drawbot.com)
-* [Drawbot Skia](https://github.com/justvanrossum/drawbot-skia), for cross-platform use
-* [Python documentation](https://docs.python.org/3/)
-* [Python Beginner’s Guide for Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
-* [Python for Designers](http://www.pythonfordesigners.com), a beautifully-designed Drawbot tutorial by [Roberto Arista](http://projects.robertoarista.it)
+* [Drawbot Skia](https://github.com/justvanrossum/drawbot-skia) for cross-platform use (in-development)
 
-### Implementations
+### Python resources
+* [Python Documentation](https://docs.python.org/3/)
+* [Python Beginner’s Guide for Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
+
+### Projects
+* [Python for Designers](http://www.pythonfordesigners.com), a beautifully-designed Drawbot walkthrough by [Roberto Arista](http://projects.robertoarista.it)
 * [Daily Drawbot](https://dailydrawbot.tumblr.com), fun animations by [Just van Rossum](https://twitter.com/justvanrossum)
 * [BadgeBot](https://github.com/djrrb/badgebot), my conference badges for the first [Typographics](https://2015.typographics.com) conference
+* [Lowlands](http://hansje.net/Lowlands-2017) by [Hansje van Halem](http://hansje.net) and [Just van Rossum](https://twitter.com/justvanrossum)
