@@ -4,7 +4,7 @@
 * _Term:_ Fall 2020
 * _Dates:_ Tuesdays 7–9pm ET, October 13 to November 17
 * _Instructor:_ [David Jonathan Ross](https://djr.com)
-* _Office Hours:_ [Book any open hour on Calendly](https://calendly.com/djrrb)
+* _Office Hours:_ [Book any open hour on Calendly]()
 
 ## Course Description
 
@@ -24,6 +24,16 @@ Using the fundamentals of the Python programming language, students will sketch 
 * [Drawbot](https://www.drawbot.com)
 * A coding font of your choice!
 
+### Course structure
+
+Most of class time will be spent coding together in the Drawbot app. In between courses, students are encouraged to practice the skills learned during class and experiment with them. 
+
+Between the third and fifth class sessions, each student will be asked to work on a few spreads that we will turn into a collective zine.
+
+Beyond the nuts and bolts of Python programming, I hope students use this opportunity to step back and consider how Python/Drawbot might affect their relationship with their tools. I will provide optional readings and links for students that explore this topic at their leisure, even though they may not relate directly to the course materials.
+
+
+
 ## Course Outline
 | Session | Date | Subject |
 | ---- | ---- | -------------- | 
@@ -31,7 +41,7 @@ Using the fundamentals of the Python programming language, students will sketch 
 | 2   | October 20 | [**Colors and Text**](#Session-2-Colors-and-Text) | 
 | 3   | October 27 | [**Canvas and Images**](#Session-3-Paths-and-Images) | 
 | | | _Daylight savings ends, move back 1 hour_ |
-|   |  _November 3_ | **Optional drop-in class** | 
+|   |  _November 3_ | _Optional drop-in class_ | 
 | 4   | November 10 | [**Layouts**](#Session-4-Layouts) |
 | 5   | November 17 | [**Animation**](#Session-5-Animation)|
 
@@ -39,8 +49,9 @@ Using the fundamentals of the Python programming language, students will sketch 
 
 ### Session 1: Shapes and Loops
 
-* _Introductions_
-* The Drawbot interface and keyboard shortcuts
+* Introductions
+* The Drawbot interface
+* Keyboard shortcuts
 * Hello world
 * Math
 * Strings
@@ -51,11 +62,14 @@ Using the fundamentals of the Python programming language, students will sketch 
 * Loops
 * Conditions
 
-#### Readings
-* [`import this`](https://www.python.org/dev/peps/pep-0020/#easter-egg)
-* 
-
 #### Session links
+* Scripts
+* Session recording
+
+#### Optional Readings
+* [The Zen of Python](https://www.python.org/dev/peps/pep-0020/#easter-egg)
+* [Connections TV series](https://archive.org/details/ConnectionsByJamesBurke), also some epsiodes [on YouTube](https://www.youtube.com/playlist?list=PLw7aVsjFLyMmkEqHami9AHGmc3x3-s3xa)
+
  
 
 ### Session 2: Colors and Text
@@ -72,9 +86,13 @@ Using the fundamentals of the Python programming language, students will sketch 
 * Color ([docs](https://www.drawbot.com/content/color.html))
 * colorsys ([docs](https://docs.python.org/3/library/colorsys.html))
 
-#### Readings
-
 #### Session links
+* Scripts _(TBA)_
+* Session recording _(TBA)_
+
+#### Optional Readings
+* TBA
+
 
 ### Session 3: Paths and Images
 
@@ -84,30 +102,48 @@ Using the fundamentals of the Python programming language, students will sketch 
 * Color ([docs](https://www.drawbot.com/content/color.html))
 * Image Object ([docs](https://www.drawbot.com/content/image/imageObject.html))
 
+#### Session links
+* Scripts _(TBA)_
+* Session recording _(TBA)_
+
+#### Optional Readings
+* TBA
 
 ### Session 4: Layouts
 
 * _Review_
 * _Show & Tell_
-* Install Python Packages
-* Using Data
+* Installing Python Packages
+* Importing and Parsing Data
 
-
-#### Readings
 
 #### Session links
+* Scripts _(TBA)_
+* Session recording _(TBA)_
+
+#### Optional Readings
+* TBA
 
 ### Session 5: Animation
 
 * _Review_
 * _Show & Tell_
+* Animation techniques
+* Easing
+* Saving and exporting
 
 
 #### Session links
+* Scripts _(TBA)_
+* Session recording _(TBA)_
+
+#### Optional Readings
+* _(TBA)_
 
 
 
-## Resources
+
+## Additional resources
 
 ### Drawbot resources
 * [Drawbot Documentation](https://www.drawbot.com/#)
