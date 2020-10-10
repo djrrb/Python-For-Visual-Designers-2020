@@ -4,7 +4,7 @@
 * _Term:_ Fall 2020
 * _Dates:_ Tuesdays 7–9pm ET, October 13 to November 17
 * _Instructor:_ [David Jonathan Ross](https://djr.com)
-* _Office Hours:_ [Book any open hour on Calendly]()
+* _Office Hours:_ [Book any open hour on Calendly](http://calendly.com/djrrb/office-hours)
 
 ## Course Description
 
@@ -76,6 +76,7 @@ Beyond the nuts and bolts of Python programming, I hope students use this opport
 
 * _Review_
 * _Show & Tell_
+* Booleans
 * Canvas
   * Pages
   * Graphics State ([docs]((https://www.drawbot.com/content/canvas/state.html)))
