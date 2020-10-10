@@ -2,9 +2,9 @@
 
 * Type@Cooper Public Workshop
 * _Term:_ Fall 2020
-* _Dates:_ Tuesdays 7–9pm ET, October 13 to November 17
+* _Dates:_ Tuesdays 7–9pm ET, October 13–27 and November 10–17
 * _Instructor:_ [David Jonathan Ross](https://djr.com)
-* _Office Hours:_ [Book any open hour on Calendly](http://calendly.com/djrrb/office-hours)
+* _Office Hours:_ [Book on Calendly](http://calendly.com/djrrb/office-hours) or get in touch
 
 ## Course Description
 
@@ -30,7 +30,7 @@ Most of class time will be spent coding together in the Drawbot app. In between 
 
 Between the third and fifth class sessions, each student will be asked to work on a few spreads that we will turn into a collective zine.
 
-Beyond the nuts and bolts of Python programming, I hope students use this opportunity to step back and consider how Python/Drawbot might affect their relationship with their tools. I will provide optional readings and links for students that explore this topic at their leisure, even though they may not relate directly to the course materials.
+Beyond the nuts and bolts of Python programming, I hope students use this opportunity to step back and consider how Python/Drawbot might affect their relationship with their tools. I will provide Optional readings and links for students that explore this topic at their leisure, even though they may not relate directly to the course materials.
 
 
 
@@ -66,9 +66,13 @@ Beyond the nuts and bolts of Python programming, I hope students use this opport
 * Scripts
 * Session recording
 
-#### Optional Readings
+#### Optional readings
 * [The Zen of Python](https://www.python.org/dev/peps/pep-0020/#easter-egg)
 * [Connections TV series](https://archive.org/details/ConnectionsByJamesBurke), also some epsiodes [on YouTube](https://www.youtube.com/playlist?list=PLw7aVsjFLyMmkEqHami9AHGmc3x3-s3xa)
+* [Esoteric programming languages](https://esolangs.org/wiki/Esoteric_programming_language)
+	* [LOLCODE](https://esolangs.org/wiki/LOLCODE)
+	* [Folders](http://danieltemkin.com/Esolangs/Folders/)
+	* [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck)
 
  
 
@@ -91,8 +95,8 @@ Beyond the nuts and bolts of Python programming, I hope students use this opport
 * Scripts _(TBA)_
 * Session recording _(TBA)_
 
-#### Optional Readings
-* TBA
+#### Optional readings
+* _(TBA)_
 
 
 ### Session 3: Paths and Images
@@ -107,8 +111,8 @@ Beyond the nuts and bolts of Python programming, I hope students use this opport
 * Scripts _(TBA)_
 * Session recording _(TBA)_
 
-#### Optional Readings
-* TBA
+#### Optional readings
+* _(TBA)_
 
 ### Session 4: Layouts
 
@@ -122,8 +126,8 @@ Beyond the nuts and bolts of Python programming, I hope students use this opport
 * Scripts _(TBA)_
 * Session recording _(TBA)_
 
-#### Optional Readings
-* TBA
+#### Optional readings
+* _(TBA)_
 
 ### Session 5: Animation
 
@@ -138,7 +142,7 @@ Beyond the nuts and bolts of Python programming, I hope students use this opport
 * Scripts _(TBA)_
 * Session recording _(TBA)_
 
-#### Optional Readings
+#### Optional readings
 * _(TBA)_
 
 
