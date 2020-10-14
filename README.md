@@ -32,7 +32,9 @@ Between the third and fifth class sessions, each student will be asked to work o
 
 Beyond the nuts and bolts of Python programming, I hope students use this opportunity to step back and consider how Python/Drawbot might affect their relationship with their tools. I will provide Optional readings and links for students that explore this topic at their leisure, even though they may not relate directly to the course materials.
 
+### Credits
 
+This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.com), and its structure and content owe much to his work. 
 
 ## Course Outline
 | Session | Date | Subject |
@@ -52,19 +54,18 @@ Beyond the nuts and bolts of Python programming, I hope students use this opport
 * Introductions
 * The Drawbot interface
 * Keyboard shortcuts
-* Hello world
-* Math
+* [Hello world](session-1/1-helloWorld.py)
+* [Math](session-1/2-math.py)
 * Strings
 * Comments
-* Variables
+* [Variables](session-1/3-variables.py)
 * Drawbot primitives ([docs](https://www.drawbot.com/content/shapes/primitives.html))
-* Lists
 * Loops
 * Conditions
 
 #### Session links
-* Scripts
-* Session recording
+* [Scripts](/session-1)
+* Session recording (will re-record)
 
 #### Optional readings
 * [The Zen of Python](https://www.python.org/dev/peps/pep-0020/#easter-egg)
@@ -73,6 +74,8 @@ Beyond the nuts and bolts of Python programming, I hope students use this opport
 	* [LOLCODE](https://esolangs.org/wiki/LOLCODE)
 	* [Folders](http://danieltemkin.com/Esolangs/Folders/)
 	* [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck)
+* [Drawbot icon by Andy Clymer](https://www.drawbot.com/content/drawBotIcon.html)
+* [Merriweather Font](https://fonts.google.com/specimen/Merriweather), by [Eben Sorkin](http://sorkintype.com) who generously donated his porch so we could have class
 
  
 
@@ -80,6 +83,7 @@ Beyond the nuts and bolts of Python programming, I hope students use this opport
 
 * _Review_
 * _Show & Tell_
+* Lists
 * Booleans
 * Canvas
   * Pages
