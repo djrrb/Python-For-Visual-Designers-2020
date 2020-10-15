@@ -29,15 +29,15 @@ shapeHeight = 100
 for row in range(rows):
     # everything indented this much runs once for each row
     for col in range(cols):
-        # everything indented this much runs once for each grid unit
-        
+        # everything indented this much 
+        # runs once for each column within 
+        # each row (one grid unit)
         # before we draw our shape, let’s pick a color for it
         # we can create 3 variables
         r = random() # red
         g = random() # green
         b = random() # blue
-        a = 1 # alpha (0 = transparent, 1 = opaque)
-        fill(r, g, b, a)
+        fill(r, g, b)
     
         # okay, now we finally draw our shape
         # we can make a conditional
@@ -60,5 +60,4 @@ for row in range(rows):
     y += gridHeight
     # and we want to return x to its original position
     # (a carriage return, essentially)
-    #  
     x -= cols*gridWidth
