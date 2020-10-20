@@ -64,8 +64,8 @@ This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.co
 * Conditions
 
 #### Session links
-* [**Scripts**](/session-1)
-* [**Session recording**](https://vimeo.com/468553019/111e5ae886)
+* [**Session 1 scripts**](/session-1)
+* [**Recorded demo**](https://vimeo.com/468553019/111e5ae886)
 
 #### Optional readings
 * [The Zen of Python](https://www.python.org/dev/peps/pep-0020/#easter-egg)
@@ -96,11 +96,15 @@ This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.co
 * colorsys ([docs](https://docs.python.org/3/library/colorsys.html))
 
 #### Session links
-* Scripts _(TBA)_
-* Session recording _(TBA)_
+* [**Scripts**](/session-2)
+* **Recorded demo**
 
 #### Optional readings
-* _(TBA)_
+* [Duck Typing](https://www.pythonmorsels.com/topics/duck-typing/)
+* [Python Object Types](https://www.oreilly.com/library/view/learning-python-3rd/9780596513986/ch04.html)
+* [Typographische Monatsblätter Research Archive](http://www.tm-research-archive.ch)
+* [Nancy White](https://www.artsy.net/artist/nancy-white)
+* [Python colorsys module](https://docs.python.org/3/library/colorsys.html)
 
 
 ### Session 3: Paths and Images
