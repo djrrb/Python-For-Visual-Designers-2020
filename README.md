@@ -97,7 +97,7 @@ This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.co
 
 #### Session links
 * [**Scripts**](/session-2)
-* **Recorded demo**
+* [**Recorded demo**](https://vimeo.com/470438779/7b576c248d)
 
 #### Optional readings
 * [Duck Typing](https://www.pythonmorsels.com/topics/duck-typing/)
