@@ -2,6 +2,9 @@ from random import choice
 margin = inch = 72
 
 fs = FormattedString(fontSize=12, lineHeight=20)
+
+# we will loop through all the fonts on the system
+# and append them one by one to the formatted string
 for fontName in installedFonts():
     # exclude any fonts whose first character is a period
     # != means not equal to
