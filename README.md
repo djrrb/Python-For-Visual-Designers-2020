@@ -120,7 +120,11 @@ This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.co
 * Session recording _(TBA)_
 
 #### Optional readings
-* _(TBA)_
+* [Vera Molnar](http://www.veramolnar.com)
+* [@beesandbombs](https://twitter.com/beesandbombs)
+* [Daily Drawbot](https://dailydrawbot.tumblr.com)
+* [Maurice Meilleur](https://mauricemeilleur.net/munari_peano)
+
 
 ### Session 4: Layouts
 
