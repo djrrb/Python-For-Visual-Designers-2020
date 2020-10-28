@@ -117,7 +117,10 @@ This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.co
 
 #### Session links
 * [**Scripts**](/session-3)
-* Session recording _(TBA)_
+* [**Session Recording, Part 1**](https://vimeo.com/473111438) (`translate()`, `rotate()`, and `scale()`)
+* [**Session Recording, Part 2**](https://vimeo.com/473126307) (`savedState()`, `ImageObject()`)
+
+
 
 #### Optional readings
 * [Vera Molnar](http://www.veramolnar.com)
@@ -125,6 +128,7 @@ This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.co
 * [Daily Drawbot](https://dailydrawbot.tumblr.com)
 * [Maurice Meilleur](https://mauricemeilleur.net/munari_peano)
 * [Drawbot Forum Code Snippets](https://forum.drawbot.com/category/8/code-snippets)
+* [Drawbot American Flag](https://github.com/djrrb/OldGlory/blob/master/oldGlory.py)
 
 ### Session 4: Layouts
 
