@@ -18,16 +18,23 @@ image(im, (0, 0))
 # make a new page
 newPage(*im.size())
 
+# draw a black background
+rect(0, 0, width(), height())
+
 # do our typical x, y loop
 for y in range(0, int(height()), 10):
     for x in range(0, int(width()), 10):
+        
         # use imagePixelColor() to query the image object and give us back the color of the pixel at (x, y)
         # this is just like using the eyedropper tool
         myColor = imagePixelColor(im, (x, y)) 
+        
         # set the fill color to that pixel color
         fill(*myColor)
+        
         # change the font and font size
         font('Verdana-Bold')
         fontSize(13.5)
+        
         # draw a random letter from our alphabet at x, y
         text(random.choice(alphabet), (x, y))
