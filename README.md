@@ -116,7 +116,7 @@ This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.co
 * Image Object ([docs](https://www.drawbot.com/content/image/imageObject.html))
 
 #### Session links
-* Scripts _(TBA)_
+* [**Scripts**](/session-3)
 * Session recording _(TBA)_
 
 #### Optional readings
@@ -124,7 +124,7 @@ This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.co
 * [@beesandbombs](https://twitter.com/beesandbombs)
 * [Daily Drawbot](https://dailydrawbot.tumblr.com)
 * [Maurice Meilleur](https://mauricemeilleur.net/munari_peano)
-
+* [Drawbot Forum Code Snippets](https://forum.drawbot.com/category/8/code-snippets)
 
 ### Session 4: Layouts
 
