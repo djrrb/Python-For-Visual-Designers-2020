@@ -172,15 +172,12 @@ This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.co
 * [@drawbotapp on Twitter](https://twitter.com/drawbotapp)
 * [Drawbot Forum](https://forum.drawbot.com)
 * [Drawbot Skia](https://github.com/justvanrossum/drawbot-skia) for cross-platform use (in-development)
+* [Python for Designers](http://www.pythonfordesigners.com), a beautifully-designed Drawbot walkthrough by [Roberto Arista](http://projects.robertoarista.it)
+* [RoboDocs Drawbot Examples](https://github.com/roboDocs/drawBotExamples)
 
 ### Python resources
 * [Python Documentation](https://docs.python.org/3/)
 * [Python Beginner’s Guide for Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
-
-### Tutorials
-* [Python for Designers](http://www.pythonfordesigners.com), a beautifully-designed Drawbot walkthrough by [Roberto Arista](http://projects.robertoarista.it)
-* [RoboDocs Drawbot Examples](https://github.com/roboDocs/drawBotExamples)
-
 
 ### Drawbot Modules
 * [Pagebot](https://github.com/PageBot/PageBot)
@@ -190,7 +187,6 @@ This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.co
 
 ### Drawbot projects
 * [BadgeBot](https://github.com/djrrb/badgebot), my conference badges for the first [Typographics](https://2015.typographics.com) conference
-
 * [Daily Drawbot](https://dailydrawbot.tumblr.com), fun animations by [Just van Rossum](https://twitter.com/justvanrossum)
 * [Lowlands](http://hansje.net/Lowlands-2017) by [Hansje van Halem](http://hansje.net) and [Just van Rossum](https://twitter.com/justvanrossum)
 * [Drawbot Plotter](https://github.com/jenskutilek/DrawBotPlotter) by Jens Kutilek
