@@ -139,11 +139,11 @@ This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.co
 
 
 #### Session links
-* Scripts _(TBA)_
-* Session recording _(TBA)_
+* [**Scripts**](/session-4)
+* [**Session recording**](https://vimeo.com/478115143/b29a9471d3)
 
 #### Optional readings
-* _(TBA)_
+* See #random channel for code snippets
 
 ### Session 5: Animation
 
