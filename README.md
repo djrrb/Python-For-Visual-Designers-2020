@@ -209,6 +209,8 @@ This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.co
 * [Jesen Tanadi](https://github.com/jtanadi/drawbotSketches)
 * [Johannes Lang](https://github.com/jo-lang/drawbotscripts)
 * [Josef Renner](https://github.com/oolong32/drawbot-exercises)
+* [Just van Rossum](https://gist.github.com/justvanrossum) (not all are for drawbot)
+* [Karnpapon Boonput](https://github.com/karnpapon/study_Drawbot)
 * [Maarten Renckens](https://github.com/Artengar/Drawbot)
 * [Mark Frömberg](https://github.com/Mark2Mark/DrawBot-GitHub)
 * [Matthew Smith](https://github.com/mttymtt/DrawBot-Sketchbook)
@@ -220,4 +222,4 @@ This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.co
 * [Sebastian Carewe](https://github.com/eweracs/drawbot-scripts)
 * [Shin Chu](https://github.com/shinchu/drawbot_sketches)
 * [Stephen Nixon](https://github.com/thundernixon/drawbot)
-
+* [Yyyyaaaannnnoooo](https://github.com/Yyyyaaaannnnoooo/Sine-Wave)
