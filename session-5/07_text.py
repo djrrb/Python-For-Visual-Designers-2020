@@ -16,7 +16,7 @@ def lerp(start, stop, amt):
 # set some constants
 frames = 30      # number of frames
 trail = 10       # number of outlines to draw behind our original
-spokes = 5       # number of rotations to draw
+spokes = 1       # number of rotations to draw
 myFontSize = 400 # the font size
 
 # install the font or drag in the file to get the absolute path
@@ -102,10 +102,11 @@ for frame in range(frames):
             # feed those to the fontVariation() function
             fontVariations(wght=wghtValue, wdth=wdthValue, ital=italValue)
             # draw our text
+            # use fontDescender() function to lower the text so the baseline 
             text('Hi!', (0, fontDescender()), align="center")
-            # diminish our alpha for each trail
+            # diminish our alpha channel for each trail
             a *= .9
-        # for each spoke, rotate one portion of a circle
+        # for each spoke in our wheel, rotate one portion of a circle
         # divide 360 by the number of spokes to get the number of degrees to rotate
         rotate(360/spokes)
     
