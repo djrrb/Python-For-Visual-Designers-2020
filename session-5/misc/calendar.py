@@ -28,14 +28,24 @@ titleHeight = 40
 headerHeight = 30
 
 # instead of hardcodin the year, let’s make a slider
-# this is a silly use case but oh well i wanted to show it to you
+# this is a silly use case since these are much better controlled numerically but oh well i wanted to show it to you anyway
 # see more at https://www.drawbot.com/content/variables.html
 Variable([
     dict(name="year", ui="Slider",
             args=dict(
-                value=date.today().year,
+                value=date.today().year+1,
                 minValue=date.today().year-100,
                 maxValue=date.today().year+100)),
+    dict(name="pageWidth", ui="Slider",
+            args=dict(
+                value=sizes('A2Landscape')[0],
+                minValue=72,
+                maxValue=1000)),
+    dict(name="pageHeight", ui="Slider",
+            args=dict(
+                value=sizes('A2Landscape')[1],
+                minValue=72,
+                maxValue=1000)),
     ], globals())
 
 # convert the results of our slider to a rounded integer
@@ -79,7 +89,7 @@ for month in range(0, 12):
     # this is a list of week rows, and each week row is a list of days
     thisCalendar = calendar.monthcalendar(year, month)
     # make a new page
-    newPage('A2Landscape')
+    newPage(int(pageWidth), int(pageHeight))
     frameDuration(1/2)
     fill(1)
     rect(0, 0, width(), height())
@@ -170,4 +180,4 @@ for month in range(0, 12):
         # now we move down a row 
         translate(0, -boxH)
         
-saveImage('~/desktop/calendar.pdf')
+#saveImage('~/desktop/calendar.pdf')
