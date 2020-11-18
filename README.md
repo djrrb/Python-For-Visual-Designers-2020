@@ -153,13 +153,9 @@ This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.co
 * Easing
 * Saving and exporting
 
-
 #### Session links
-* Scripts _(TBA)_
-* Session recording _(TBA)_
-
-#### Optional readings
-* _(TBA)_
+* [**Scripts**](/session-5)
+* [**Session recording**](https://vimeo.com/480738807/515b3c2074)
 
 
 
@@ -201,6 +197,7 @@ This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.co
 
 * [Agyei Archer](https://github.com/agyeiarcher/drawbot/)
 * [Alphabet Type](https://github.com/AlphabetType/DrawBot-Scripts) (robofont only)
+* [Drawbot Forum Code Snippets](https://forum.drawbot.com/category/8/code-snippets)
 * [Eli Heuer](https://github.com/eliheuer/drawbot-exercises)
 * [Felipe Negrão](https://github.com/filipenegrao/drawbotScripts)
 * [Future Fonts](https://github.com/futurefonts/type-animations)
@@ -209,7 +206,7 @@ This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.co
 * [Jesen Tanadi](https://github.com/jtanadi/drawbotSketches)
 * [Johannes Lang](https://github.com/jo-lang/drawbotscripts)
 * [Josef Renner](https://github.com/oolong32/drawbot-exercises)
-* [Just van Rossum](https://gist.github.com/justvanrossum) (not all are for drawbot)
+* [Just van Rossum](https://gist.github.com/justvanrossum) (note: not all are for drawbot)
 * [Karnpapon Boonput](https://github.com/karnpapon/study_Drawbot)
 * [Maarten Renckens](https://github.com/Artengar/Drawbot)
 * [Mark Frömberg](https://github.com/Mark2Mark/DrawBot-GitHub)
