@@ -10,7 +10,7 @@ Now that you hopefully have an understanding of the fundamentals, it might be he
 
 * [Variables](https://www.drawbot.com/content/variables.html)
 * [`clipPath()`](https://www.drawbot.com/content/shapes/drawingPath.html#drawBot.clipPath)
-* [Using Drawbot from outside the app](https://github.com/typemytype/drawbot#using-drawbot-as-a-python-module)
+* [Running Drawbot from the command line](https://github.com/typemytype/drawbot#using-drawbot-as-a-python-module)
 * [`skew()` and `transform()`](https://www.drawbot.com/content/canvas/state.html#drawBot.skew)
 * [`arc()`](https://www.drawbot.com/content/shapes/drawingPath.html#drawBot.arc)
 
@@ -56,8 +56,8 @@ The creators of Glyphs app have resources about scripting in Glyphs, and occasio
 * [Scripting Glyphs, Part 3](https://glyphsapp.com/learn/scripting-glyphs-part-3)
 * [Glyphs API](https://docu.glyphsapp.com)
 
-### Creative coding
+## Creative coding
 
-## [Generative Type Design](http://coopertype.org/event/generative_type_fall2020)
+### [Generative Type Design](http://coopertype.org/event/generative_type_fall2020)
 
-I can personally recommend this course that covers [p5.js](https://p5js.org), which is a javascript version of Processing that will run in your web browser. Lynne and Kevin are awesome, and this course also covers some of the conceptual framework and history of creative coding in general.
+I can personally recommend this course that covers [p5.js](https://p5js.org), which is a javascript interpretation of [Processing](https://processing.org) that will run in a web browser. You will recognize functions such as `rect()` and `translate()`, but there is much more of a focus on interactivity and web-friendliness. Lynne and Kevin are awesome teachers, and this course also covers some of the conceptual framework and history of creative coding in general.
