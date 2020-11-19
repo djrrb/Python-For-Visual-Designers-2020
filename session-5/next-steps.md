@@ -47,7 +47,7 @@ A different python library by Rob Stenson that deals specifically with type and 
 
 * [Robofont: Building Tools](https://robofont.com/documentation/building-tools/)
 
-## Glyphs resources
+### Glyphs resources
 
 The creators of Glyphs app have resources about scripting in Glyphs, and occasionally offer workshops as well.
 
