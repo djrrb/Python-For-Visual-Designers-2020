@@ -1,6 +1,18 @@
 # Next steps
 
-In our last class, I was too distracted by making weird circles move and forgot to save some time to talk about where you might go from here with Python and Drawbot. 
+A woefully incomplete list of paths forward for learning Python and Drawbot.
+
+## Messing with other people’s code
+
+Now that you hopefully have an understanding of the fundamentals, it might be helpful to try diving into someone else’s code to see how they solved a problem or customize it to solve a problem of your own. I’ve compiled a list of [Drawbot links](https://github.com/djrrb/Python-For-Visual-Designers-2020#additional-resources), and feel free to [suggest others](https://github.com/djrrb/Python-For-Visual-Designers-2020/issues).
+
+## Some Drawbot features we didn’t cover
+
+* [Variables](https://www.drawbot.com/content/variables.html)
+* [`clipPath()`](https://www.drawbot.com/content/shapes/drawingPath.html#drawBot.clipPath)
+* [Using Drawbot from outside the app](https://github.com/typemytype/drawbot#using-drawbot-as-a-python-module)
+* [`skew()` and `transform()`](https://www.drawbot.com/content/canvas/state.html#drawBot.skew)
+* [`arc()`](https://www.drawbot.com/content/shapes/drawingPath.html#drawBot.arc)
 
 ## Python classes and `class`es
 
