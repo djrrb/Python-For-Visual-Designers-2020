@@ -65,7 +65,7 @@ This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.co
 
 #### Session links
 * [**Session 1 scripts**](/session-1)
-* [**Recorded demo**](https://vimeo.com/468553019/111e5ae886)
+
 
 #### Optional readings
 * [The Zen of Python](https://www.python.org/dev/peps/pep-0020/#easter-egg)
@@ -97,7 +97,6 @@ This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.co
 
 #### Session links
 * [**Scripts**](/session-2)
-* [**Recorded demo**](https://vimeo.com/470438779/7b576c248d)
 
 #### Optional readings
 * [Duck Typing](https://www.pythonmorsels.com/topics/duck-typing/)
@@ -117,8 +116,6 @@ This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.co
 
 #### Session links
 * [**Scripts**](/session-3)
-* [**Session Recording, Part 1**](https://vimeo.com/473111438) (`translate()`, `rotate()`, and `scale()`)
-* [**Session Recording, Part 2**](https://vimeo.com/473126307) (`savedState()`, `ImageObject()`)
 
 
 
@@ -140,7 +137,6 @@ This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.co
 
 #### Session links
 * [**Scripts**](/session-4)
-* [**Session recording**](https://vimeo.com/478115143/b29a9471d3)
 
 #### Optional readings
 * See #random channel for code snippets
@@ -155,7 +151,6 @@ This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.co
 
 #### Session links
 * [**Scripts**](/session-5)
-* [**Session recording**](https://vimeo.com/480738807/515b3c2074)
 
 
 
